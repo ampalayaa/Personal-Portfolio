@@ -34,18 +34,11 @@ A snapshot of the skills and technologies I specialize in, from programming lang
 Highlights of my collaborative efforts with other professionals and teams. See how we’ve worked together to create impactful results.
 
 ## 📝 Blog & Insights
+**[My journey Through NIT3: From intimidation to Inspiration]**
 
-I'd be happy to help you generate some thoughts on current trends in Computer Science, project breakdowns, and other insightful content. To make this more specific and engaging, could you tell me:
-
-Are there any particular areas of Computer Science you're especially interested in? (e.g., artificial intelligence, cybersecurity, quantum computing, etc.)
-Do you have any specific projects in mind that you'd like to break down?
-Is there a particular audience you're writing for? (e.g., students, professionals, general public)
-What kind of tone are you aiming for? (e.g., technical, conversational, thought-provoking)
-
-Once you provide some more details, I can help craft a thoughtful and relevant piece of content for you.
 
 ## 📬 Contact
-<img src="" 
+<img src="https://github.com/ampalayaa/Personal-Portfolio/blob/main/assets/images/profile.jpg" 
      width="150" 
      style="border-radius: 50%;" 
      alt="ampalayaa Photo">
