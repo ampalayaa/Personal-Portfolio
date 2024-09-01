@@ -34,7 +34,7 @@ A snapshot of the skills and technologies I specialize in, from programming lang
 Highlights of my collaborative efforts with other professionals and teams. See how we’ve worked together to create impactful results.
 
 ## 📝 Blog & Insights
-**[My journey Through NIT3: From intimidation to Inspiration]**
+###**My journey Through NIT3: From intimidation to Inspiration**
 
 
 ## 📬 Contact
